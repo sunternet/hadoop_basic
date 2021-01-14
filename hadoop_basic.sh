@@ -84,3 +84,5 @@ hadoop jar ~/wordcount/Wordcount.jar -D mapreduce.job.queuename=prod /mapreduce/
 # Stop processes
 sbin/stop-dfs.sh
 sbin/stop-yarn.sh
+
+# All Done!
